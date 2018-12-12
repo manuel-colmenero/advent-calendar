@@ -1,0 +1,9 @@
+{
+  "short_name": "Advent",
+  "name": "Advent calendar",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "homepage": "https://manuel-colmenero.github.io/advent-calendar/"
+}
